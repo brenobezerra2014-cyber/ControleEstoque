@@ -1,0 +1,13 @@
+COMANDOS PARA COMPILACAO E EXECUCAO
+
+Compilacao:
+
+gcc main.c -o programa
+
+Execucao no Linux:
+
+./programa
+
+Execucao no Windows:
+
+programa.exe
